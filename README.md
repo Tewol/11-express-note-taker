@@ -25,15 +25,14 @@
 * Install node.js and npm 
 
 # Runing application guid
-1. 
+1. Install all dependencies by running npm install
+2. Invoke application by running node servers.js
 
 # Mock-up
 The following Video demonstrates the application appearance and functionality:
 
-
-![Demo!](./images/demo.gif)
-
 ![Note Taker application](./images/notes.png)
+![Note Taker application](./images/notes1.png)
 
 # Links to the deployed application
 
