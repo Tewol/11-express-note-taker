@@ -31,8 +31,8 @@
 # Mock-up
 The following Video demonstrates the application appearance and functionality:
 
-![Note Taker application](./images/notes.png)
-![Note Taker application](./images/notes1.png)
+![Note Taker application](./images/note.png)
+![Note Taker application](./images/note1.png)
 
 # Links to the deployed application
 
